@@ -13,3 +13,8 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Ignores according to https://dart.dev/guides/libraries/private-files.
+.dart_tool/
+.packages
+doc/api/
