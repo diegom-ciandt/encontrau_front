@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:encontrau_front/themes/theme_main.dart';
-import 'package:encontrau_front/pages/page_home.dart';
+import 'package:encontrau_front/view/themes/theme_main.dart';
+import 'package:encontrau_front/view/pages/page_home.dart';
 
 void main() {
   runApp(EncontrAU());

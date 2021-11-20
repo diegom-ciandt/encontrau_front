@@ -1,4 +1,4 @@
-import 'package:encontrau_front/components/custom_bottom_app_bar.dart';
+import 'package:encontrau_front/view/components/custom_bottom_app_bar.dart';
 import 'package:flutter/material.dart';
 
 class PageHome extends StatelessWidget {

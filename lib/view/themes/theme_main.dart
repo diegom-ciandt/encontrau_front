@@ -1,4 +1,4 @@
-import 'package:encontrau_front/utils/constants.dart';
+import 'package:encontrau_front/view/utils/constants.dart';
 import 'package:flutter/material.dart';
 
 class ThemeMain {
